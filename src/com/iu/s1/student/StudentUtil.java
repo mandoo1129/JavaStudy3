@@ -13,8 +13,6 @@ public class StudentUtil {
 		
 		for(int i=0;i<students.length;i++) {
 			if(students[i].num == num) {
-				System.out.println();
-			}
 		}
 		
 //	public Student []  makeStudents() {
